@@ -31,9 +31,7 @@ El modelo incluye varias reglas de transición que determinan cómo los ingresos
 ### Instalación
 
 1. **Descargar NetLogo**: Asegúrate de tener instalada la última versión de [NetLogo](https://ccl.northwestern.edu/netlogo/).
-2. **Clonar el repositorio**:
-   ```bash
-   git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+
 
    ## Configuración y Ejecución
 
